@@ -67,7 +67,7 @@ disqus: loffer #shortname
 gitalk:
   clientID: a1ee2633a0af33019dd5
   clientSecret: 990fb42cdffd654c634d4a6bbb9a5213090457f7
-  repo: http://ucancallmestranger.github.io/Under-The-Water
+  repo: http://ucancallmestranger.github.io
   owner: ucancallmestranger
 
 # 输入Google Analytics web tracking code
