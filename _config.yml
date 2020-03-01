@@ -67,7 +67,7 @@ disqus: loffer #shortname
 gitalk:
   clientID: 17433724c7e20c051cc3
   clientSecret: fd67a83dd2c321c6a00ee7c5c012b1824fc35730
-  repo: Under-The-Water
+  repo: comments
   owner: ucancallmestranger
 
 # 输入Google Analytics web tracking code
