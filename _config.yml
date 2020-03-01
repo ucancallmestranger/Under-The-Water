@@ -66,7 +66,7 @@ disqus: loffer #shortname
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
   clientID: a1ee2633a0af33019dd5
-  clientSecret: 990fb42cdffd654c634d4a6bbb9a5213090457f7
+  clientSecret: 1d5ae171d6ddd5346a7bacc4a3ee02f6932043bb
   repo: http://ucancallmestranger.github.io
   owner: ucancallmestranger
 
