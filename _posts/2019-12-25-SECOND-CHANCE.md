@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CHANCE·2（Leone Abbacchio/ Giorno Giovanna）
+title: CHANCE·下（Leone Abbacchio/ Giorno Giovanna）
 date: 2019-12-25
 Author: 壹澗
 categories: 
