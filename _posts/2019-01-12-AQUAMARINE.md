@@ -38,7 +38,7 @@ comments: true
 
 “跳舞？”
 
-“跳舞。”
+[“跳舞。”](https://www.youtube.com/watch?v=TVAsuN3F5-A)
 
 艾吉奥装模作样地——至少阿泰尔是这么觉得的——摸摸下巴考虑了一会儿，侧过身让开了门口的位置：“我可以教你。”
 
