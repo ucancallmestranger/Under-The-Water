@@ -1382,7 +1382,7 @@ DLC II·Warning
 
 <br/>
 
-DLC III·薛定谔的短信发送
+DLC III·[薛定谔的短信发送](https://music.163.com/#/song?id=510951962)
 
 <br/>
 
