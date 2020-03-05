@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scintilla（Leone Abbacchio/ Giorno Giovanna）
-date: 2019-11-11
+date: 2019-05-21
 Author: 壹澗
 categories: 
 tags: [JOJO, 茶茸]
@@ -193,3 +193,7 @@ comments: true
 <br/>
 
 **O Fim**
+
+[「背伸びをしたって届かない　恋のお相手はお星様」](https://music.163.com/#/song?id=440411019)
+
+“踮起脚也触不到 我爱慕的是星辰遥遥”
