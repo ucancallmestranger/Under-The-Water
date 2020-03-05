@@ -18,7 +18,7 @@ comments: true
 ▼
 ▼
 
-It's all in your mind.
+[It's all in your mind.](https://music.163.com/#/song?id=2922581)
 
 ▼
 ▼
