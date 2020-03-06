@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Abbacchio（Leone Abbacchio/ Giorno Giovanna）
-date: 2019-12-25
+title: Abbacchio, had you ever thought that the end of the world would come on 00.4.08?（Leone Abbacchio/ Giorno Giovanna）
+date: 2020-03-05
 Author: 壹澗
 categories: 
 tags: [JOJO, 茶茸]
