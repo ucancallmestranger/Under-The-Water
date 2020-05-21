@@ -1,7 +1,7 @@
 ---
 layout: post
-title: hey hey baby（Leone Abbacchio/ Giorno Giovanna）
-date: 2020-05-19
+title: 只因当时太紧张（Leone Abbacchio/ Giorno Giovanna）
+date: 2020-05-21
 Author: 壹澗
 categories: 
 tags: [JOJO, 茶茸, MLA]
