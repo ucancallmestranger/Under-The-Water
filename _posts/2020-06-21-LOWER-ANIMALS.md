@@ -4,7 +4,7 @@ title: 低等动物（Leone Abbacchio/ Giorno Giovanna♀）
 date: 2020-06-21
 Author: 壹澗
 categories: 
-tags: [JOJO, 茶茸, fingering, squirting, tongue, legjob, stockings, lollipop, bondage, sex toys, exhibitionism]
+tags: [JOJO, 茶茸, fingering, squirting, tongue, legjob, stockings, lollipop, bondage, sex toys, exhibitionism, foreplay only]
 
 comments: true
 --- 
