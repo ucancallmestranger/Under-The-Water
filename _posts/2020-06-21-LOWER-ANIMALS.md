@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 低等动物（Leone Abbacchio/ Giorno Giovanna）
+title: 低等动物（Leone Abbacchio/ Giorno Giovanna♀）
 date: 2020-06-21
 Author: 壹澗
 categories: 
