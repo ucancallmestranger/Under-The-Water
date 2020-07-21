@@ -8,6 +8,12 @@ tags: [明日方舟, 鲸鲨]
 comments: true
 --- 
 
+<br/>
+
+<audio id="audio" controls="" preload="none" loop="true" autoplay="autoplay">
+      <source id="mp3" src="http://m10.music.126.net/20200721151450/2c0c4aa8b3d68ea3ca4d25cf855bf26f/ymusic/1d26/81e2/8d40/305fb69b0526b5221929668d25e54cc4.mp3">
+      </audio>
+
 ***
 
 <br/>
@@ -312,4 +318,3 @@ comments: true
 
 **O Fim**
 
-[“没有我给你操纵的快感 问你的兴奋知觉怎膨胀”](https://music.163.com/#/song?id=27483204)
