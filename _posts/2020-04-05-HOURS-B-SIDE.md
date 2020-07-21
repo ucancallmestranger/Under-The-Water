@@ -9,6 +9,12 @@ tags: [JOJO, 茶茸]
 comments: true
 --- 
 
+<br/>
+
+<audio id="audio" controls="" preload="none" loop="true" autoplay="autoplay">
+      <source id="mp3" src="http://m10.music.126.net/20200721151913/9ae4ca0f75af9fc4ddafd4ab07b1138e/ymusic/7c18/b3e4/b378/59023402bec8c431cf7c2c1fedaefbd8.mp3">
+      </audio>
+
 ***
 
 <br/>
