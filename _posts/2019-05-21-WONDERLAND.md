@@ -24,7 +24,7 @@ comments: true
 ▼
 ▼
 
-[It's all in your mind.]()
+It's all in your mind.
 
 ▼
 ▼
