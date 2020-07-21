@@ -8,6 +8,12 @@ tags: [刺客信条, EA]
 comments: true
 --- 
 
+<br/>
+
+<audio id="audio" controls="" preload="none" loop="true" autoplay="autoplay">
+      <source id="mp3" src="http://m10.music.126.net/20200721135949/3c14c43a8df6b419b5d64fd44c6ac5e6/ymusic/3dd2/3efd/8621/aaf0881569565f9fd2946ad9551ab491.mp3">
+      </audio>
+
 ***
 
 <br/>
@@ -381,5 +387,3 @@ comments: true
 <br/>
 
 **O Fim**
-
-[“还要多远才能进入你的心 还要多久才能和你接近”](https://music.163.com/#/song?id=441491828)
