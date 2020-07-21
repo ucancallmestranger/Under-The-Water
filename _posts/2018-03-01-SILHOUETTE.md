@@ -8,6 +8,10 @@ tags: [刺客信条, 鳕鱼法棍]
 comments: true
 --- 
 
+<audio id="audio" controls="" preload="none" loop="true" autoplay="autoplay">
+      <source id="mp3" src="http://m10.music.126.net/20200721115914/e597f775b188b6b9a1f2c5c75f09466c/ymusic/0609/010e/0609/1c6c5479366d4e7c774a1cb708c10244.mp3">
+      </audio>
+
 ***
 
 我不喜欢你。
@@ -68,7 +72,7 @@ comments: true
 
 就像我……
 
-胃里一阵翻江倒[海](https://music.163.com/#/song?id=17413778)，我不想说了。
+胃里一阵翻江倒海，我不想说了。
 
 有朝一日假若你解脱我，~~这个世界上就不会有人比我更爱你~~。
 
