@@ -8,6 +8,12 @@ tags: [刺客信条, 鳕鱼法棍]
 comments: true
 --- 
 
+<br/>
+
+<audio id="audio" controls="" preload="none" loop="true" autoplay="autoplay">
+      <source id="mp3" src="http://m10.music.126.net/20200721123252/bc50748fd1fccf4cc943fe8cce747c48/ymusic/055c/065b/0658/266604adb711dac805d112bf0e938dc7.mp3">
+      </audio>
+
 ***
 
 <br/>
@@ -280,6 +286,6 @@ comments: true
 >
 >不爱那么多 只爱一点点
 >
->别人眉来眼去 [我只偷看你一眼](https://music.163.com/#/song?id=22651161)
+>别人眉来眼去 我只偷看你一眼
 >
 >——《只爱一点点》
