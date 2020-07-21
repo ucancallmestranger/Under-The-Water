@@ -8,6 +8,12 @@ tags: [JOJO, 茶茸]
 comments: true
 --- 
 
+<br/>
+
+<audio id="audio" controls="" preload="none" loop="true" autoplay="autoplay">
+      <source id="mp3" src="http://m10.music.126.net/20200721150741/f0990448c0245ff30f5d46873fbdd59b/ymusic/901d/0579/c13b/6c5fd2f539ef82c3d7f073e344e88a2b.mp3">
+      </audio>
+
 ***
 
 <br/>
@@ -18,7 +24,7 @@ comments: true
 ▼
 ▼
 
-[It's all in your mind.](https://music.163.com/#/song?id=2922581)
+[It's all in your mind.]()
 
 ▼
 ▼
