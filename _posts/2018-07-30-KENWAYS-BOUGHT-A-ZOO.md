@@ -1382,6 +1382,12 @@ DLC II·Warning
 
 <br/>
 
+<audio id="audio" controls="" preload="none" loop="true" autoplay="autoplay">
+      <source id="mp3" src="http://m10.music.126.net/20200721125202/71ccc0fbeeb4157a307112a2582eadba/ymusic/43d5/e695/a739/fb7b774f6cce864207ebf22161633280.mp3">
+      </audio>
+
+<br/>
+
 DLC III·[薛定谔的短信发送](https://music.163.com/#/song?id=510951962)
 
 <br/>
