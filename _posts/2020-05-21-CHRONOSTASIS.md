@@ -9,6 +9,12 @@ tags: [明日方舟, 煌喉, 伊W]
 comments: true
 --- 
 
+<br/>
+
+<audio id="audio" controls="" preload="none" loop="true" autoplay="autoplay">
+      <source id="mp3" src="http://m10.music.126.net/20200721152641/390323dd0961cc00b41aac739b810a57/ymusic/9f3a/b485/fc75/71640c8899168cea54868516d2926635.mp3">
+      </audio>
+
 ***
 
 <br/>
