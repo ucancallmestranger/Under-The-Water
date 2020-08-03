@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sing for absolution at 7 p.m.（Leone Abbacchio/Giorno Giovanna）
+title: Sing for absolution at 7 p.m.（Leone Abbacchio/ Giorno Giovanna）
 date: 2020-07-19
 Author: 壹澗
 categories: 
