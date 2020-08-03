@@ -1,6 +1,6 @@
 ---
 layout: post
-title: For long tomorrow（Leone Abbacchio/Giorno Giovanna）
+title: For long tomorrow（Leone Abbacchio/ Giorno Giovanna）
 date: 2020-08-02
 Author: 壹澗
 categories: 
