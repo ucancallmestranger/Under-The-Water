@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beat the devil's tattoo（Leone Abbacchio/Giorno Giovanna）
+title: Beat the devil's tattoo（Leone Abbacchio/ Giorno Giovanna）
 date: 2020-07-26
 Author: 壹澗
 categories: 
