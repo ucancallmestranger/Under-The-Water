@@ -10,10 +10,6 @@ comments: true
 
 <br/>
 
-<audio id="audio" controls="" preload="none" loop="true" autoplay="autoplay">
-      <source id="mp3" src="http://m10.music.126.net/20200721123252/bc50748fd1fccf4cc943fe8cce747c48/ymusic/055c/065b/0658/266604adb711dac805d112bf0e938dc7.mp3">
-      </audio>
-
 ***
 
 <br/>
