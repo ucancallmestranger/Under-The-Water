@@ -9,6 +9,18 @@ tags: [JOJO, 茶茸]
 comments: true
 --- 
 
+前篇：
+
+[① Sing for absolution at 7 p.m.](https://ucancallmestranger.github.io/Under-The-Water/SING-FOR-ABSOLUTION-AT-7-PM/ "Sing for absolution at 7 p.m.")
+
+[② Beat the devil's tattoo](https://ucancallmestranger.github.io/Under-The-Water/BEAT-THE-DEVIL'S-TATTOO/ "Beat the devil's tattoo")
+
+[③ For long tomorrow](https://ucancallmestranger.github.io/Under-The-Water/FOR-LONG-TOMORROW/ "For long tomorrow")
+
+[④ Dictionary and bible](https://ucancallmestranger.github.io/Under-The-Water/DICTIONARY-AND-BIBLE/ "Dictionary and bible")
+
+<br/>
+
 ***
 
 <br/>
