@@ -6,28 +6,6 @@ layout: default
   <h2>No post found</h2>
 {% endif %}
 
- <div class="side">
-                <div id="search-container">
-                    <input type="text" id="search-input" placeholder="search...">
-                    <ul id="results-container"></ul>
-                </div>
-            </div>
-
-<script src="https://ucancallmestranger.github.io/Under-The-Water/js/simple-jekyll-search.min.js"></script>
-
-<script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: 'https://ucancallmestranger.github.io/Under-The-Water/search.json',
-    searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-    noResultsText: 'No results found',
-    limit: 10,
-    fuzzy: false,
-    exclude: ['Welcome']
-})
-</script>
-
 <div class="posts">
   
   {% for post in site.posts %}
