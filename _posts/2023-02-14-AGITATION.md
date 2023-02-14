@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schoolyard（Leone Abbacchio/ Giorno Giovanna）
+title: 鼓动（Leone Abbacchio/ Giorno Giovanna）
 date: 2023-02-14
 Author: 壹澗
 categories: 
