@@ -7,7 +7,6 @@ categories:
 tags: [JOJO, 茶茸]
 
 comments: true
-toc: true
 --- 
 
 ***
