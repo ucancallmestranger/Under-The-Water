@@ -51,8 +51,8 @@ footer-links:
   pinterest: orianthipan #https://www.pinterest.com/<>
   rss: For the love of God #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
-  tumblr: orianthi-kilimanjaro # https://<username>.tumblr.com
-  twitter: akiratheshark # https://www.twitter.com/<your_twitter_username> 
+  tumblr: # https://<username>.tumblr.com
+  twitter: # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
