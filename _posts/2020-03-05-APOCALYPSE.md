@@ -12,6 +12,10 @@ comments: true
 
 <br/>
 
+[🎵Edward, Had You Ever Thought That The End Of The World Would Come On 20.9.01?](https://www.youtube.com/watch?v=BedLgrvvoKI "Edward, Had You Ever Thought That The End Of The World Would Come On 20.9.01?")
+
+<br/>
+
 “新闻里说了，明天就是世界末日了。”
 
 金发少年如是说，而阿帕基不以为然。首先他没有从任何媒介中听闻风声，他探究地从窗口往外望，人按部就班向着自己的目的地，与平常大同小异；其次，少年说谎次数太多，其话语可信度基本为零——每次对方都告诉他要离开，每次都不声不响地窝在桌子底下，等着被他揪出来。
