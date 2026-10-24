@@ -1,3 +1,13 @@
+---
+layout: post
+title: Markdown Chaeat Sheet
+date: 2000-01-01
+Author: 1036 
+tags: [sample, markdown]
+comments: true
+toc: true
+---
+
 # Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
