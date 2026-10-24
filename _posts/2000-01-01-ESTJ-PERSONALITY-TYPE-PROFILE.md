@@ -1,3 +1,13 @@
+---
+layout: post
+title: ESTJ的人格类型
+date: 2000-01-01
+Author: 壹澗 
+tags: [library, MBTI]
+comments: true
+toc: true
+---
+
 > ESTJ Personality Type Profile
 
 ESTJ的人格类型
