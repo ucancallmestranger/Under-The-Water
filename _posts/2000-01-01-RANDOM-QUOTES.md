@@ -4,7 +4,7 @@ title: 随机摘录
 date: 2000-01-01
 Author: 壹澗 
 tags: [library, quotes]
-comments: true
+comments: false
 hidden: true
 sitemap: false
 ---
