@@ -4,6 +4,8 @@ date: 2000-01-01
 Author: 壹澗 
 tags: [library, purchase]
 comments: true
+hidden: true
+sitemap: false
 
 | 品牌 | 款式 | 香型 | 前调 | 中调 | 后调 | 评级 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
