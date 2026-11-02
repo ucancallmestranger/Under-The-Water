@@ -5,7 +5,8 @@ date: 2000-01-01
 Author: 壹澗 
 tags: [library, games]
 comments: true
-
+hidden: true
+sitemap: false
 ---
 | 年代 | 游戏中文名称 | 游戏英文名称 |
 | ----------- | ----------- | ----------- |
