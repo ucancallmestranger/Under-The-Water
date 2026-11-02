@@ -29,8 +29,10 @@ layout: default
     {{ content }}
   </div>
 
-  {% include disqus.html %}
-  {% include gitalk.html %}
+  {% unless page.hidden %}
+    {% include disqus.html %}
+    {% include gitalk.html %}
+  {% endunless %}
 </article>
 
 <div class="pagination">
