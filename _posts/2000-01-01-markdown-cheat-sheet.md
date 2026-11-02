@@ -4,8 +4,10 @@ title: Markdown Chaeat Sheet
 date: 2000-01-01
 Author: 1036 
 tags: [sample, markdown]
-comments: true
+comments: false
 toc: true
+hidden: true
+sitemap: false
 ---
 
 # Markdown Cheat Sheet
