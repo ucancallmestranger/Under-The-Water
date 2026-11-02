@@ -5,7 +5,8 @@ date: 2000-01-01
 Author: 壹澗 
 tags: [library, quotes]
 comments: true
-
+hidden: true
+sitemap: false
 ---
 | 作者 | 出处 | 原文 |
 | ----------- | ----------- | ----------- |
