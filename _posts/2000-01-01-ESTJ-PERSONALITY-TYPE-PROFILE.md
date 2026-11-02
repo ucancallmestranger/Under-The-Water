@@ -6,6 +6,8 @@ Author: 壹澗
 tags: [library, MBTI]
 comments: true
 toc: true
+hidden: true
+sitemap: false
 ---
 
 > ESTJ Personality Type Profile
