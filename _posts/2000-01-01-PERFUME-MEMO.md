@@ -1,3 +1,4 @@
+---
 layout: post
 title: 香水备忘目录
 date: 2000-01-01
@@ -6,6 +7,7 @@ tags: [library, purchase]
 comments: true
 hidden: true
 sitemap: false
+---
 
 | 品牌 | 款式 | 香型 | 前调 | 中调 | 后调 | 评级 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
