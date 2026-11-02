@@ -6,6 +6,8 @@ Author: 壹澗
 tags: [library, indoor planning]
 comments: true
 toc: true
+hidden: true
+sitemap: false
 ---
 
 ## 基本共识
