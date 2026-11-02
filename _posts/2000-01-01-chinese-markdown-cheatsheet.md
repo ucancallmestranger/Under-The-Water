@@ -4,8 +4,10 @@ title: Markdown语法简介
 date: 2000-01-01
 Author: Shengbin 
 tags: [sample, markdown]
-comments: true
+comments: false
 toc: true
+hidden: true
+sitemap: false
 ---
 
 本中文版Markdown语法简介来自博客 <https://blog.shengbin.me/posts/markdown-syntax>
