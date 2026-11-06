@@ -43,6 +43,7 @@ sitemap: false
 | Typora 0.9.70 | MarkDown编辑器 |
 | Inky | 文字游戏编辑器 |
 | Motrix | 下载工具 |
+| Ghost Downloader | 下载工具 |
 | Bandizip | 解压缩工具 |
 | Gopeed | 下载工具 |
 | BoosterX | 系统和游戏优化 |
