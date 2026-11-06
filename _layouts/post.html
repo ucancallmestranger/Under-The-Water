@@ -35,6 +35,7 @@ layout: default
   {% endunless %}
 </article>
 
+{% unless page.hidden %}
 <div class="pagination">
   {% if page.previous.url %}
     <span class="prev" >
@@ -51,3 +52,4 @@ layout: default
     </span>
   {% endif %}
 </div>
+{% endunless %}
