@@ -69,3 +69,5 @@ sitemap: false
 | SuperF4 | 确保关机快捷键优先级最高 |
 | Keyviz | 可以在录屏时显示正在使用的按键 |
 | TagSpaces | 对文件进行标签分类 |
+| FastLink | 科学上网工具 |
+| Proton VPN | 科学上网工具 |
