@@ -900,10 +900,14 @@ aside.toc {
     background-color: #1a1a1a !important;
   }
 
+  .wrapper-footer-desktop {
+    border-top-color: #2e2e2e !important;
+  }
+
+  footer,
   .wrapper-footer-desktop,
-  .wrapper-footer-desktop > div,
-  .wrapper-footer-desktop footer {
-    background-color: #1a1a1a !important;
+  .wrapper-footer-mobile {
+    border-color: #2e2e2e !important;
   }
 	
 }
