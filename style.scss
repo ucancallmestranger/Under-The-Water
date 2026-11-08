@@ -765,55 +765,68 @@ aside.toc {
     color: #d0d0d0;
   }
 
-  a {
-    color: #6cb6ff;
-  }
+  a { color: #6cb6ff; }
+  a:hover { color: #8fcaff; }
 
-  a:hover {
-    color: #8fcaff;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    color: #e8e8e8;
-  }
+  h1, h2, h3, h4, h5, h6 { color: #e8e8e8; }
 
   pre, code {
     background-color: #2a2a2a;
     color: #d0d0d0;
   }
+  pre { border-color: #3a3a3a; }
 
-  pre {
-    border-color: #3a3a3a;
-  }
-
-  table {
-    border-color: #3a3a3a;
-  }
-
-  th, td {
-    border-color: #3a3a3a;
-  }
+  table, th, td { border-color: #3a3a3a; }
 
   blockquote {
     color: #a0a0a0;
     border-left-color: #3a3a3a;
   }
 
-  hr {
-    border-color: #2e2e2e;
-  }
+  hr { border-color: #2e2e2e; }
 
-  .wrapper-content,
-  .container,
-  .posts {
-    background-color: transparent;
-  }
-}
+  /* 导航栏与页脚 */
+  nav, footer { background-color: #1f1f1f; }
+  nav a, footer a { color: #d0d0d0; }
 
-  nav, footer {
-    background-color: #1f1f1f;
-  }
-
+  /* 目录 */
   aside.toc {
     background-color: #1f1f1f;
   }
+  aside.toc a { color: #c0c0c0; }
+  aside.toc a:hover { color: #6cb6ff; }
+
+  /* 文章卡片 / 列表 */
+  .posts, .post, article {
+    background-color: transparent;
+  }
+
+  /* 标签 */
+  .tag li a, ul.tag li a {
+    background-color: #2a2a2a;
+    color: #c0c0c0;
+    border-color: #3a3a3a;
+  }
+
+  /* 分页 */
+  .pagination a {
+    background-color: #2a2a2a;
+    color: #d0d0d0;
+    border-color: #3a3a3a;
+  }
+  .pagination a:hover {
+    background-color: #333;
+  }
+
+  /* 代码块里的行内元素、表格背景 */
+  table { background-color: #1f1f1f; }
+  th, td { background-color: #1f1f1f; }
+}
+
+.gt-container .gt-comment-content,
+.gt-container .gt-header-textarea,
+.gt-container .gt-btn {
+  background-color: #2a2a2a;
+  color: #d0d0d0;
+  border-color: #3a3a3a;
+}
