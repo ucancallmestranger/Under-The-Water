@@ -869,5 +869,21 @@ aside.toc {
   .wrapper-sidebar h2 {
     color: #e8e8e8 !important;
   }
+
+  #main.wrapper-content,
+  .wrapper-footer-mobile {
+    border-color: #2e2e2e !important;
+  }
+
+  .posts article,
+  article.post {
+    border-bottom-color: #2e2e2e !important;
+  }
+
+  .posts hr,
+  article hr {
+    border-color: #2e2e2e !important;
+    background-color: #2e2e2e !important;
+  }
 	
 }
