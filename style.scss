@@ -786,12 +786,12 @@ aside.toc {
   hr { border-color: #2e2e2e; }
 
   /* 导航栏与页脚 */
-  nav, footer { background-color: #1f1f1f; }
+  nav, footer { background-color: #1a1a1a; }
   nav a, footer a { color: #d0d0d0; }
 
   /* 目录 */
   aside.toc {
-    background-color: #1f1f1f;
+    background-color: #1a1a1a;
   }
   aside.toc a { color: #c0c0c0; }
   aside.toc a:hover { color: #6cb6ff; }
@@ -834,7 +834,7 @@ aside.toc {
   .wrapper-sidebar .avatar,
   .wrapper-sidebar .navlist,
   .wrapper-sidebar .navlist a {
-    background-color: transparent;
+    ;
     color: #d0d0d0;
   }
 
@@ -897,6 +897,12 @@ aside.toc {
   }
 
   html {
+    background-color: #1a1a1a !important;
+  }
+
+  .wrapper-footer-desktop,
+  .wrapper-footer-desktop > div,
+  .wrapper-footer-desktop footer {
     background-color: #1a1a1a !important;
   }
 	
