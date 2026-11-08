@@ -802,20 +802,21 @@ aside.toc {
   }
 
   /* 标签 */
-  .tag li a, ul.tag li a {
-    background-color: #2a2a2a;
-    color: #c0c0c0;
-    border-color: #3a3a3a;
+  .tag li a,
+  ul.tag li a,
+  .label li a {
+    background-color: #2a2a2a !important;
+    color: #c0c0c0 !important;
+    border-color: #3a3a3a !important;
   }
 
   /* 分页 */
-  .pagination a {
-    background-color: #2a2a2a;
-    color: #d0d0d0;
-    border-color: #3a3a3a;
-  }
-  .pagination a:hover {
-    background-color: #333;
+  .pagination a,
+  .pagination .prev,
+  .pagination .next {
+    background-color: #2a2a2a !important;
+    color: #d0d0d0 !important;
+    border-color: #3a3a3a !important;
   }
 
   /* 代码块里的行内元素、表格背景 */
@@ -830,7 +831,7 @@ aside.toc {
   .wrapper-sidebar .navlist,
   .wrapper-sidebar .navlist a {
     background-color: transparent;
-    color: #c0c0c0;
+    color: #d0d0d0;
   }
 
 .gt-container .gt-comment-content,
@@ -840,5 +841,33 @@ aside.toc {
   color: #d0d0d0;
   border-color: #3a3a3a;
 }
+
+  /* 文章摘要 / 预览文字 */
+  .entry,
+  .excerpt,
+  .post-excerpt {
+    color: #b8b8b8 !important;
+  }
+
+  /* 分割线 */
+  .wrapper-sidebar,
+  .wrapper-content,
+  .container,
+  #main {
+    border-color: #2e2e2e !important;
+  }
+
+  hr, .divider {
+    border-color: #2e2e2e !important;
+    background-color: #2e2e2e !important;
+  }
+
+  /* 侧边栏标题调亮 */
+  .wrapper-sidebar .site-title,
+  .wrapper-sidebar .site-name,
+  .wrapper-sidebar h1,
+  .wrapper-sidebar h2 {
+    color: #e8e8e8 !important;
+  }
 	
 }
