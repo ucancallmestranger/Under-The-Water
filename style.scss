@@ -821,7 +821,17 @@ aside.toc {
   /* 代码块里的行内元素、表格背景 */
   table { background-color: #1f1f1f; }
   th, td { background-color: #1f1f1f; }
-}
+
+  .wrapper-sidebar {
+    background-color: #1a1a1a !important;
+  }
+
+  .wrapper-sidebar .avatar,
+  .wrapper-sidebar .navlist,
+  .wrapper-sidebar .navlist a {
+    background-color: transparent;
+    color: #c0c0c0;
+  }
 
 .gt-container .gt-comment-content,
 .gt-container .gt-header-textarea,
@@ -829,4 +839,6 @@ aside.toc {
   background-color: #2a2a2a;
   color: #d0d0d0;
   border-color: #3a3a3a;
+}
+	
 }
