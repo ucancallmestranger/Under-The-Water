@@ -758,3 +758,54 @@ aside.toc {
   max-height: calc(100vh - 120px);
   overflow-y: auto;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #d0d0d0;
+  }
+
+  a {
+    color: #6cb6ff;
+  }
+
+  a:hover {
+    color: #8fcaff;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #e8e8e8;
+  }
+
+  pre, code {
+    background-color: #2a2a2a;
+    color: #d0d0d0;
+  }
+
+  pre {
+    border-color: #3a3a3a;
+  }
+
+  table {
+    border-color: #3a3a3a;
+  }
+
+  th, td {
+    border-color: #3a3a3a;
+  }
+
+  blockquote {
+    color: #a0a0a0;
+    border-left-color: #3a3a3a;
+  }
+
+  hr {
+    border-color: #2e2e2e;
+  }
+
+  .wrapper-content,
+  .container,
+  .posts {
+    background-color: transparent;
+  }
+}
