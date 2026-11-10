@@ -948,13 +948,13 @@ aside.toc {
 }
 
 /* 折叠时隐藏目录 */
-body.toc-hidden aside.toc {
+html.toc-hidden aside.toc {
   display: none;
 }
 
 /* 折叠时正文去掉左侧留白 */
 @media screen and (max-width:2200px) and (min-width:1200px) {
-  body.toc-hidden .withtoc {
+  html.toc-hidden .withtoc {
     padding-left: 0 !important;
   }
 }
