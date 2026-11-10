@@ -5,6 +5,7 @@
     {% include nav.html %}
 
     {% if page.toc==true %}
+      <button id="toc-toggle" class="toc-toggle">隐藏目录</button>
       <aside class="toc">
         {% include toc.html html=content %}
       </aside>
@@ -19,6 +20,24 @@
     {% include analytics.html %}
     
     {% include open-embed.html %}
+
+<script>
+(function() {
+  var btn = document.getElementById('toc-toggle');
+  if (!btn) return;
+  if (localStorage.getItem('tocHidden') === '1') {
+    document.body.classList.add('toc-hidden');
+    btn.textContent = '显示目录';
+  }
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('toc-hidden');
+    var hidden = document.body.classList.contains('toc-hidden');
+    btn.textContent = hidden ? '显示目录' : '隐藏目录';
+    localStorage.setItem('tocHidden', hidden ? '1' : '0');
+  });
+})();
+</script>
+    
     </body>
 
   {% if page.toc==true %}
