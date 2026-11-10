@@ -11,7 +11,7 @@
       </aside>
     {% endif %}
 
-    <div id="main" role="main" class="wrapper-content">
+    <div id="main" role="main" class="wrapper-content{% if page.toc==true %} withtoc{% endif %}">
       <div class="container">
         {{ content }}
       </div>
@@ -37,12 +37,6 @@
 </script>
     
     </body>
-
-  {% if page.toc==true %}
-  <script>
-    document.getElementById("main").classList.add("withtoc");
-  </script>
-  {% endif %}
 
   <div class="wrapper-footer-mobile">
     <footer class="footer">
