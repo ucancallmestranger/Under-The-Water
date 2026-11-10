@@ -923,11 +923,11 @@ aside.toc {
 /* 目录折叠按钮 */
 .toc-toggle {
   position: fixed;
-  top: 700px;
+  bottom: 120px;
   left: 500px;
   z-index: 20;
   padding: 4px 10px;
-  font-size: 13px;
+  font-size: 12px;
   background: rgba(128, 128, 128, 0.15);
   color: #888;
   border: 1px solid rgba(128, 128, 128, 0.2);
@@ -941,6 +941,10 @@ aside.toc {
 	opacity: 1; 
 	background: rgba(128, 128, 128, 0.3);
     color: #ccc;
+}
+
+@media (max-width: 768px) {
+  .toc-toggle { display: none; }
 }
 
 /* 折叠时隐藏目录 */
