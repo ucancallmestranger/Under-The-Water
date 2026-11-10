@@ -1,4 +1,9 @@
-## 更新内容 by ucancallmestranger
+## 更新内容20261110 by ucancallmestranger
+
+1. 新增隐藏/显示目录按钮
+2. 隐藏/显示目录时刷新，不再出现样式闪烁
+
+## 更新内容20261108 by ucancallmestranger
 
 1. 目录可滚动
 2. 可以上传私密文章，开头需要加上`hidden: true`和`sitemap: false`；私密文章只能通过正确的链接进入，无法通过`feed.xml`检索到，也无法通过点击上一篇下一篇，归档以及`tag`导航定位
