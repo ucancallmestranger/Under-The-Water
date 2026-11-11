@@ -940,6 +940,14 @@ aside.toc {
   transition: opacity 0.2s, background 0.2s;
 }
 
+.toc-toggle::before {
+  content: '◀';
+}
+
+html.toc-hidden .toc-toggle::before {
+  content: '▶';
+}
+
 .toc-toggle:hover {
 	opacity: 1; 
 	background: rgba(128, 128, 128, 0.3);
