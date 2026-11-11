@@ -26,12 +26,10 @@
   var btn = document.getElementById('toc-toggle');
   if (!btn) return;
   var root = document.documentElement;
-  btn.textContent = root.classList.contains('toc-hidden') ? '▶' : '◀';
   btn.setAttribute('title', root.classList.contains('toc-hidden') ? '显示目录' : '隐藏目录');
   btn.addEventListener('click', function() {
     root.classList.toggle('toc-hidden');
     var hidden = root.classList.contains('toc-hidden');
-    btn.textContent = hidden ? '▶' : '◀';
     btn.setAttribute('title', hidden ? '显示目录' : '隐藏目录');
     localStorage.setItem('tocHidden', hidden ? '1' : '0');
   });
