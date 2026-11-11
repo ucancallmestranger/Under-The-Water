@@ -925,15 +925,18 @@ aside.toc {
   position: fixed;
   bottom: 10px;
   left: 475px;
-  z-index: 20;
-  padding: 4px 10px;
-  font-size: 12px;
-  background: rgba(128, 128, 128, 0.15);
-  color: #888;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  font-size: 11px;
+  line-height: 22px;
+  text-align: center;
+  background: rgba(128, 128, 128, 0.12);
+  color: #999;
   border: 1px solid rgba(128, 128, 128, 0.2);
-  border-radius: 4px;
+  border-radius: 50%;
   cursor: pointer;
-  opacity: 0.5;
+  opacity: 0.4;
   transition: opacity 0.2s, background 0.2s;
 }
 
