@@ -3,7 +3,7 @@ layout: post
 title: 家居添置与常备记录
 date: 2000-01-01
 Author: 壹澗 
-tags: [library, indoor planning]
+tags: [library, personal]
 comments: false
 toc: true
 hidden: true
