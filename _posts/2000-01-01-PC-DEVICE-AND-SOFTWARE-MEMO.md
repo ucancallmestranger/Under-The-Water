@@ -3,7 +3,7 @@ layout: post
 title: 2025台式游戏机组装配置
 date: 2000-01-01
 Author: 壹澗 
-tags: [library, computer]
+tags: [library, personal]
 comments: false
 hidden: true
 sitemap: false
