@@ -11,37 +11,37 @@ sitemap: false
 
 | 国家 | 参考图片 | 备注 |
 | ----------- | ----------- | ----------- |
-| 土耳其 | ![土耳其早餐](https://www.foodrepublic.com/img/gallery/what-a-traditional-breakfast-looks-like-in-turkey/intro-1707732967.webp) | / |
-| 阿根廷 | ![阿根廷早餐](https://blogpatagonia.australis.com/wp-content/uploads/2018/06/iStock-874191254.jpg) | / |
-| 美国阿拉斯加 | ![阿拉斯加早餐](https://www.alaskafromscratch.com/wp-content/uploads/2018/07/IMG_6866-768x512.jpg) | Reindeer meat |
-| 埃及 | ![埃及早餐](https://media-gadventures.global.ssl.fastly.net/media-server/dynamic/blogs/posts/G-Adventures/2024/10/Egyptian_Breakfast-labneh.webp) | / |
-| 爱尔兰 | ![爱尔兰早餐](https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/03/11/FNK_FULL_IRISH_BREAKFAST_H_f.jpg.rend.hgtvcom.826.620.suffix/1615507355216.webp) | / |
-| 澳大利亚 | ![澳大利亚早餐](https://www.thespruceeats.com/thmb/17A0Xl12TD7RANzNLcKn7DYtoOA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SES-aussie-breakfast-fry-up-recipe-256169-80e4f5c081164080b1261cf92bdc301b.jpg) | / |
-| 巴西 | ![巴西早餐](https://cookingtheglobe.com/wp-content/uploads/2016/04/brazilian-breakfast-2.jpg) | / |
-| 冰岛 | ![冰岛早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwwXbMgI4fXbfpV5rqurFQvegjIjBJm5xOA&s) | / |
-| 波兰 | ![波兰早餐](https://media-cdn.tripadvisor.com/media/photo-s/13/ca/64/c4/traditional-polish-breakfast.jpg) | / |
-| 伯利兹 | ![伯利兹早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNGQnzRoMwcVLuO9Cj2146sxtT2Mvjk0kXg&s) | / |
-| 丹麦 | ![丹麦早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwwXbMgI4fXbfpV5rqurFQvegjIjBJm5xOA&s) | / |
-| 德国 | ![德国早餐](https://images.squarespace-cdn.com/content/v1/62626bc4487f9020fc1380f0/1683450663850-YKVGQ7QOD0UZGPM4S5OO/Sliced_Meat_bread.jpg) | / |
-| 法国 | ![法国早餐](https://worldinparis.com/wp-content/uploads/2021/07/French-Breakfast.jpg) | / |
-| 菲律宾 | ![菲律宾早餐](https://cdn.tatlerasia.com/asiatatler/i/ph/2021/05/07105034-gettyimages-1257260385_cover_1280x764.jpg) | / |
-| 哥伦比亚 | ![哥伦比亚早餐](https://images.squarespace-cdn.com/content/v1/62626bc4487f9020fc1380f0/1683450663850-YKVGQ7QOD0UZGPM4S5OO/Sliced_Meat_bread.jpg) | / |
-| 古巴 | ![古巴早餐](https://www.desumama.com/wp-content/uploads/2018/11/cuban-breakfast-1.jpg) | / |
-| 加拿大 | ![加拿大早餐](https://www.mashed.com/img/gallery/what-a-typical-breakfast-in-canada-looks-like/l-intro-1685563822.jpg) | / |
-| 马来西亚 | ![马来西亚早餐](https://cdn.shopify.com/s/files/1/0584/3904/1206/files/nasi_lemak_480x480.png?v=1698817739) | / |
-| 美国 | ![美国早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCMvd9g35pZauHWRTAjGTrVAyMwUmKazK9Q&s) | / |
-| 秘鲁 | ![秘鲁早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqkqoUPXCzmDHp9zH-O-b31Ngzrn5ffMAcQ&s) | / |
-| 摩洛哥 | ![摩洛哥早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdq_c8_km2Hpqa5qX-PYNQo00a2RhH8g2IRg&s) | / |
-| 墨西哥 | ![墨西哥早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJrtSprgDock-YQyO3pFCHl5FEhStO2Y5ag&s) | / |
-| 葡萄牙 | ![葡萄牙早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvF471C0rjKc96EdSJc-plCgI6k30NnVyJg&s) | / |
-| 日本 | ![日本早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXN3LrS6MI8SSFFHV83WDbbk3zBGzZ10imqw&s) | / |
-| 瑞典 | ![瑞典早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxO9YQCPmoTJt9XBoKRVwXkMrIguYl20yoA&s) | / |
-| 苏格兰 | ![苏格兰早餐](https://scottishscran.com/wp-content/uploads/2021/04/Full-Scottish-Breakfast-58-1024x683.jpg) | / |
-| 泰国 | ![泰国早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBbTDHpg2mzC3D6jk9NlXUNrjXmwknKQEA&s) | / |
-| 威尔士 | ![威尔士早餐](https://eatwellonuc.org.uk/images/Welshbf.jpg) | / |
-| 越南 | ![越南早餐](https://foodventuresabroad.com/wp-content/uploads/2025/04/pexels-hero-venezuelan-breakfast.jpg) | / |
-| 美国夏威夷 | ![夏威夷早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RMmaPIGFtufuFxvwp64ejGtbo5K8ZMqrHw&s) | / |
-| 意大利 | ![意大利早餐](https://blog.italotreno.com/wp-content/uploads/2024/03/What-People-Eat-Breakfast-Italy-1140x660.jpg) | / |
-| 印度 | ![印度早餐](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b7LHs56GakIuVsuszwvdn8Y56s4dJtjGBw&s) | / |
-| 英国 | ![英国早餐](https://www.allrecipes.com/thmb/26c7pMfdcJyCH3rCR-3wNMvsXHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8739702_Full-English-Breakfast_Dotdash-Meredith-Food-Studios_4x3-69803e0fd92c411f98991dd4bcf34f44.jpg) | / |
-| 约旦 | ![约旦早餐](https://ranasrecipe.com/wp-content/uploads/2022/06/Photo-Mar-28-10-38-47-AM-scaled.jpg) | / |
+| 土耳其 | [<img src="https://www.foodrepublic.com/img/gallery/what-a-traditional-breakfast-looks-like-in-turkey/intro-1707732967.webp" width="28" alt="土耳其早餐" title="土耳其早餐">](https://www.foodrepublic.com/img/gallery/what-a-traditional-breakfast-looks-like-in-turkey/intro-1707732967.webp "点击查看原图") | / |
+| 阿根廷 | [<img src="https://blogpatagonia.australis.com/wp-content/uploads/2018/06/iStock-874191254.jpg" width="28" alt="阿根廷早餐" title="阿根廷早餐">](https://blogpatagonia.australis.com/wp-content/uploads/2018/06/iStock-874191254.jpg "点击查看原图") | / |
+| 美国阿拉斯加 | [<img src="https://www.alaskafromscratch.com/wp-content/uploads/2018/07/IMG_6866-768x512.jpg" width="28" alt="阿拉斯加早餐" title="阿拉斯加早餐">](https://www.alaskafromscratch.com/wp-content/uploads/2018/07/IMG_6866-768x512.jpg "点击查看原图") | Reindeer meat |
+| 埃及 | [<img src="https://media-gadventures.global.ssl.fastly.net/media-server/dynamic/blogs/posts/G-Adventures/2024/10/Egyptian_Breakfast-labneh.webp" width="28" alt="埃及早餐" title="埃及早餐">](https://media-gadventures.global.ssl.fastly.net/media-server/dynamic/blogs/posts/G-Adventures/2024/10/Egyptian_Breakfast-labneh.webp "点击查看原图") | / |
+| 爱尔兰 | [<img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/03/11/FNK_FULL_IRISH_BREAKFAST_H_f.jpg.rend.hgtvcom.826.620.suffix/1615507355216.webp" width="28" alt="爱尔兰早餐" title="爱尔兰早餐">](https://media-gadventures.global.ssl.fastly.net/media-server/dynamic/blogs/posts/G-Adventures/2024/10/Egyptian_Breakfast-labneh.webp "点击查看原图") | / |
+| 澳大利亚 | [<img src="https://www.thespruceeats.com/thmb/17A0Xl12TD7RANzNLcKn7DYtoOA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SES-aussie-breakfast-fry-up-recipe-256169-80e4f5c081164080b1261cf92bdc301b.jpg" width="28" alt="澳大利亚早餐" title="澳大利亚早餐">](https://www.thespruceeats.com/thmb/17A0Xl12TD7RANzNLcKn7DYtoOA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SES-aussie-breakfast-fry-up-recipe-256169-80e4f5c081164080b1261cf92bdc301b.jpg "点击查看原图") | / |
+| 巴西 | [<img src="https://cookingtheglobe.com/wp-content/uploads/2016/04/brazilian-breakfast-2.jpg" width="28" alt="巴西早餐" title="巴西早餐">](https://cookingtheglobe.com/wp-content/uploads/2016/04/brazilian-breakfast-2.jpg "点击查看原图") | / |
+| 冰岛 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwwXbMgI4fXbfpV5rqurFQvegjIjBJm5xOA&s" width="28" alt="冰岛早餐" title="冰岛早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwwXbMgI4fXbfpV5rqurFQvegjIjBJm5xOA&s "点击查看原图") | / |
+| 波兰 | [<img src="https://media-cdn.tripadvisor.com/media/photo-s/13/ca/64/c4/traditional-polish-breakfast.jpg" width="28" alt="波兰早餐" title="波兰早餐">](https://media-cdn.tripadvisor.com/media/photo-s/13/ca/64/c4/traditional-polish-breakfast.jpg "点击查看原图") | / |
+| 伯利兹 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNGQnzRoMwcVLuO9Cj2146sxtT2Mvjk0kXg&s" width="28" alt="伯利兹早餐" title="伯利兹早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNGQnzRoMwcVLuO9Cj2146sxtT2Mvjk0kXg&s "点击查看原图") | / |
+| 丹麦 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwwXbMgI4fXbfpV5rqurFQvegjIjBJm5xOA&s" width="28" alt="丹麦早餐" title="丹麦早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwwXbMgI4fXbfpV5rqurFQvegjIjBJm5xOA&s "点击查看原图") | / |
+| 德国 | [<img src="https://images.squarespace-cdn.com/content/v1/62626bc4487f9020fc1380f0/1683450663850-YKVGQ7QOD0UZGPM4S5OO/Sliced_Meat_bread.jpg" width="28" alt="德国早餐" title="德国早餐">](https://images.squarespace-cdn.com/content/v1/62626bc4487f9020fc1380f0/1683450663850-YKVGQ7QOD0UZGPM4S5OO/Sliced_Meat_bread.jpg "点击查看原图") | / |
+| 法国 | [<img src="https://worldinparis.com/wp-content/uploads/2021/07/French-Breakfast.jpg" width="28" alt="法国早餐" title="法国早餐">](https://worldinparis.com/wp-content/uploads/2021/07/French-Breakfast.jpg "点击查看原图") | / |
+| 菲律宾 | [<img src="https://cdn.tatlerasia.com/asiatatler/i/ph/2021/05/07105034-gettyimages-1257260385_cover_1280x764.jpg" width="28" alt="菲律宾早餐" title="菲律宾早餐">](https://cdn.tatlerasia.com/asiatatler/i/ph/2021/05/07105034-gettyimages-1257260385_cover_1280x764.jpg "点击查看原图") | / |
+| 哥伦比亚 | [<img src="https://images.squarespace-cdn.com/content/v1/62626bc4487f9020fc1380f0/1683450663850-YKVGQ7QOD0UZGPM4S5OO/Sliced_Meat_bread.jpg" width="28" alt="哥伦比亚早餐" title="哥伦比亚早餐">](https://images.squarespace-cdn.com/content/v1/62626bc4487f9020fc1380f0/1683450663850-YKVGQ7QOD0UZGPM4S5OO/Sliced_Meat_bread.jpg "点击查看原图") | / |
+| 古巴 | [<img src="https://www.desumama.com/wp-content/uploads/2018/11/cuban-breakfast-1.jpg" width="28" alt="古巴早餐" title="古巴早餐">](https://www.desumama.com/wp-content/uploads/2018/11/cuban-breakfast-1.jpg "点击查看原图") | / |
+| 加拿大 | [<img src="https://www.mashed.com/img/gallery/what-a-typical-breakfast-in-canada-looks-like/l-intro-1685563822.jpg" width="28" alt="加拿大早餐" title="加拿大早餐">](https://www.mashed.com/img/gallery/what-a-typical-breakfast-in-canada-looks-like/l-intro-1685563822.jpg "点击查看原图") | / |
+| 马来西亚 | [<img src="https://cdn.shopify.com/s/files/1/0584/3904/1206/files/nasi_lemak_480x480.png?v=1698817739" width="28" alt="马来西亚早餐" title="马来西亚早餐">](https://cdn.shopify.com/s/files/1/0584/3904/1206/files/nasi_lemak_480x480.png?v=1698817739 "点击查看原图") | / |
+| 美国 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCMvd9g35pZauHWRTAjGTrVAyMwUmKazK9Q&s" width="28" alt="美国早餐" title="美国早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCMvd9g35pZauHWRTAjGTrVAyMwUmKazK9Q&s "点击查看原图") | / |
+| 秘鲁 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqkqoUPXCzmDHp9zH-O-b31Ngzrn5ffMAcQ&s" width="28" alt="秘鲁早餐" title="秘鲁早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqkqoUPXCzmDHp9zH-O-b31Ngzrn5ffMAcQ&s "点击查看原图") | / |
+| 摩洛哥 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdq_c8_km2Hpqa5qX-PYNQo00a2RhH8g2IRg&s" width="28" alt="摩洛哥早餐" title="摩洛哥早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdq_c8_km2Hpqa5qX-PYNQo00a2RhH8g2IRg&s "点击查看原图") | / |
+| 墨西哥 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJrtSprgDock-YQyO3pFCHl5FEhStO2Y5ag&s" width="28" alt="墨西哥早餐" title="墨西哥早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJrtSprgDock-YQyO3pFCHl5FEhStO2Y5ag&s "点击查看原图") | / |
+| 葡萄牙 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvF471C0rjKc96EdSJc-plCgI6k30NnVyJg&s" width="28" alt="葡萄牙早餐" title="葡萄牙早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvF471C0rjKc96EdSJc-plCgI6k30NnVyJg&s "点击查看原图") | / |
+| 日本 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXN3LrS6MI8SSFFHV83WDbbk3zBGzZ10imqw&s" width="28" alt="日本早餐" title="日本早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXN3LrS6MI8SSFFHV83WDbbk3zBGzZ10imqw&s "点击查看原图") | / |
+| 瑞典 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxO9YQCPmoTJt9XBoKRVwXkMrIguYl20yoA&s" width="28" alt="瑞典早餐" title="瑞典早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxO9YQCPmoTJt9XBoKRVwXkMrIguYl20yoA&s "点击查看原图") | / |
+| 苏格兰 | [<img src="https://scottishscran.com/wp-content/uploads/2021/04/Full-Scottish-Breakfast-58-1024x683.jpg" width="28" alt="苏格兰早餐" title="苏格兰早餐">](https://scottishscran.com/wp-content/uploads/2021/04/Full-Scottish-Breakfast-58-1024x683.jpg "点击查看原图") | / |
+| 泰国 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBbTDHpg2mzC3D6jk9NlXUNrjXmwknKQEA&s" width="28" alt="泰国早餐" title="泰国早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBbTDHpg2mzC3D6jk9NlXUNrjXmwknKQEA&s "点击查看原图") | / |
+| 威尔士 | [<img src="https://eatwellonuc.org.uk/images/Welshbf.jpg" width="28" alt="威尔士早餐" title="威尔士早餐">](https://eatwellonuc.org.uk/images/Welshbf.jpg "点击查看原图") | / |
+| 越南 | [<img src="https://foodventuresabroad.com/wp-content/uploads/2025/04/pexels-hero-venezuelan-breakfast.jpg" width="28" alt="越南早餐" title="越南早餐">](https://foodventuresabroad.com/wp-content/uploads/2025/04/pexels-hero-venezuelan-breakfast.jpg "点击查看原图") | / |
+| 美国夏威夷 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RMmaPIGFtufuFxvwp64ejGtbo5K8ZMqrHw&s" width="28" alt="夏威夷早餐" title="夏威夷早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RMmaPIGFtufuFxvwp64ejGtbo5K8ZMqrHw&s "点击查看原图") | / |
+| 意大利 | [<img src="https://blog.italotreno.com/wp-content/uploads/2024/03/What-People-Eat-Breakfast-Italy-1140x660.jpg" width="28" alt="意大利早餐" title="意大利早餐">](https://blog.italotreno.com/wp-content/uploads/2024/03/What-People-Eat-Breakfast-Italy-1140x660.jpg "点击查看原图") | / |
+| 印度 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b7LHs56GakIuVsuszwvdn8Y56s4dJtjGBw&s" width="28" alt="印度早餐" title="印度早餐">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b7LHs56GakIuVsuszwvdn8Y56s4dJtjGBw&s "点击查看原图") | / |
+| 英国 | [<img src="https://www.allrecipes.com/thmb/26c7pMfdcJyCH3rCR-3wNMvsXHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8739702_Full-English-Breakfast_Dotdash-Meredith-Food-Studios_4x3-69803e0fd92c411f98991dd4bcf34f44.jpg" width="28" alt="英国早餐" title="英国早餐">](https://www.allrecipes.com/thmb/26c7pMfdcJyCH3rCR-3wNMvsXHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8739702_Full-English-Breakfast_Dotdash-Meredith-Food-Studios_4x3-69803e0fd92c411f98991dd4bcf34f44.jpg "点击查看原图") | / |
+| 约旦 | [<img src="https://ranasrecipe.com/wp-content/uploads/2022/06/Photo-Mar-28-10-38-47-AM-scaled.jpg" width="28" alt="约旦早餐" title="约旦早餐">](https://ranasrecipe.com/wp-content/uploads/2022/06/Photo-Mar-28-10-38-47-AM-scaled.jpg "点击查看原图") | / |
