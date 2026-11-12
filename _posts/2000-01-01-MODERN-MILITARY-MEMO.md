@@ -3,7 +3,7 @@ layout: post
 title: 现代军事武器科普
 date: 2000-01-01
 Author: 壹澗 
-tags: [library, modern, weapons]
+tags: [library, textual research]
 comments: false
 toc: true
 hidden: true
