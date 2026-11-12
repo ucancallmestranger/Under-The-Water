@@ -9,6 +9,8 @@ hidden: true
 sitemap: false
 ---
 
+### 文章
+
 | 文章标题 | 内容 | 是否有大纲 | 状态 | 开始日期 | 结束日期 | 备注 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dinner Diner (Talulah/Alina) | A parody of “想做饭的女人和想吃饭的女人” | 否 | Open | / | / | / |
@@ -60,10 +62,17 @@ sitemap: false
 | 待定 | Shoot：深藏不露水管工/城府太深黑道嫂子 | 待整理 | Open | / | / | / |
 | 待定 | 🐟🥖全蚀（吸血鬼猎人和吸血鬼） | 待整理 | Open | / | / | / |
 | 待定 | Limerence（LOLITA AU） | 待整理 | Open | / | / | / |
-| 待定 | inky-becoming a cat | 待整理 | Open | / | / | / |
 | PIANIST | checkmate PIANIST | 待整理 | Open | / | / | / |
 | 待定 | 美女与野兽 | 待整理 | Open | / | / | / |
 | 待定 | 明日方舟卖拐 | 待整理 | Open | / | / | / |
 | 待定 | 明日方舟卖拐 | 待整理 | Open | / | / | / |
 
 查看lofter草稿箱剩余
+
+### INKY项目
+| 文章标题 | 内容 | 是否有大纲 | 状态 | 开始日期 | 结束日期 | 备注 |
+| --- | --- | --- | --- | --- | --- | --- |
+| becoming a cat | inky测试项目 | 已有正文 | Open | / | / | ![正文](https://ucancallmestranger.github.io/Under-The-Water/BECOMING-A-CAT/) |
+| utopia | inky高阶项目 | 正文基本完结 | Open | / | / | / |
+| coc入门 | inky测试项目 | 已有正文 | Open | / | / | / |
+| 逸剑风云决 | inky测试项目 | 否 | Open | / | / | / |
