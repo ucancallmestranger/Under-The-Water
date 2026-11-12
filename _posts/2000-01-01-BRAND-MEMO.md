@@ -3,7 +3,7 @@ layout: post
 title: 品牌避雷/倾向目录
 date: 2000-01-01
 Author: 壹澗 
-tags: [library, brands]
+tags: [library, personal]
 comments: false
 hidden: true
 sitemap: false
