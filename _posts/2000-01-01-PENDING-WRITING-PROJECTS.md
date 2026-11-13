@@ -18,7 +18,7 @@ sitemap: false
 | Love in the Countryside (Talulah/Alina) | 乡村爱情故事 | 否 | Open | / | / | / |
 | FOG Sequel（LG） | 待整理 | 否 | Open | / | / | ![正文](https://ucancallmestranger.github.io/Under-The-Water/FOG/) |
 | Mångata | 奶茶 | 整理中 | Open | / | / | / |
-| FUSCHIA+ | 吸血鬼新增内容：跨国外勤、在林中、吞银讨论、公寓重构、辱骂老古董 | 整理中 | Open | / | / | / |
+| FUCHSIA+ | 吸血鬼新增内容：跨国外勤、在林中、吞银讨论、公寓重构、辱骂老古董 | 整理中 | Open | / | / | / |
 | 待定 | 训犬警官/兽医 | 待整理 | Open | / | / | / |
 | 待定 | CSI警探/法医 | 待整理 | Open | / | / | / |
 | 待定 | 地质学者/真菌学者 | 待整理 | Open | / | / | / |
